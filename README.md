@@ -8,7 +8,7 @@ RESTful Node API which queries a MongoDB for questions based on their annotated 
 ## Setup
 - Install requirements with `npm install`
 - Set the connection string to your MongoDB in `src/config.js`
-- Start server with `npm run dev`. It will be available on `localhost:3000`.
+- Start server with `npm run dev` (in production, use `node src/server.js`). It will be available on `localhost:3000`.
 - Store the data (from the Questions and Topics spreadsheet) in MongoDB by making a POST request to `/storeData`
 - Search the data by making a GET request to `/search?q=<TOPICNAME>`
 
