@@ -1,5 +1,5 @@
 {
-  "name": "mongo-node",
+  "name": "node-mongo-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dominiczy/mongo-node.git"
+    "url": "git+https://github.com/dominiczy/node-mongo-api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dominiczy/mongo-node/issues"
+    "url": "https://github.com/dominiczy/node-mongo-api/issues"
   },
-  "homepage": "https://github.com/dominiczy/mongo-node#readme",
+  "homepage": "https://github.com/dominiczy/node-mongo-api#readme",
   "dependencies": {
     "csv-parser": "^3.0.0",
     "dotenv": "^10.0.0",
