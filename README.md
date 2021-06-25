@@ -18,8 +18,8 @@ It's connected to a MongoDB Atlas cluster with data already uploaded (no need to
 
 Example search requests:
 
-`https://pencil-backend.onrender.com/search?q=Nutrition%20in%20Humans` return question numbers: `[82,125,152,46,63,185,25,34,133,158,188,123,155,131,184,6,80,89,110,47,62,59,6,136,23,60,90]`
+https://pencil-backend.onrender.com/search?q=Nutrition%20in%20Humans return question numbers: `[82,125,152,46,63,185,25,34,133,158,188,123,155,131,184,6,80,89,110,47,62,59,6,136,23,60,90]`
 
-`https://pencil-backend.onrender.com/search?q=Describe%20the%20structure%20of%20the%20eye%20as%20seen%20in%20front%20view%20and%20in%20horizontal%20section` returns question numbers: `[15,23,35,125,180]`
+https://pencil-backend.onrender.com/search?q=Describe%20the%20structure%20of%20the%20eye%20as%20seen%20in%20front%20view%20and%20in%20horizontal%20section returns question numbers: `[15,23,35,125,180]`
 
-`https://pencil-backend.onrender.com/search?q=NotExistingTopic` returns question numbers: `[]`
+https://pencil-backend.onrender.com/search?q=NotExistingTopic returns question numbers: `[]`
